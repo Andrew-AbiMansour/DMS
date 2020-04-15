@@ -39,4 +39,4 @@ To help us fund development, we humbly ask that you cite the DMS papers:
   J. Chem. Phys., 2014, 140, pp 074102
   DOI: 10.1063/1.4864200
 
-Thank you and good luck with your simulations~!
+Thank you and good luck with your simulations!
